@@ -1,0 +1,8 @@
+com\leyou\order\pojo\OrderDetail.class
+com\leyou\order\api\OrderApi.class
+com\leyou\order\vo\OrderStatusMessage.class
+com\leyou\order\vo\CommentsParameter.class
+com\leyou\order\pojo\Address.class
+com\leyou\order\pojo\OrderStatus.class
+com\leyou\order\pojo\SeckillOrder.class
+com\leyou\order\pojo\Order.class
