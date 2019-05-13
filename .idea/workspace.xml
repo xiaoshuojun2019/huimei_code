@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="853443e7-296d-4597-994f-8d041688ba42" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leyou-registry/pom.xml" afterPath="$PROJECT_DIR$/leyou-registry/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/leyou-authentication/target/" />
@@ -77,8 +76,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leyou-registry/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="65" column="53" lean-forward="false" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
+            <state relative-caret-position="461">
+              <caret line="64" column="32" lean-forward="false" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -1113,7 +1112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1557024558809</updated>
       <workItem from="1557024560283" duration="50674000" />
-      <workItem from="1557710115695" duration="824000" />
+      <workItem from="1557710115695" duration="1664000" />
     </task>
     <servers />
   </component>
@@ -1132,7 +1131,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51498000" />
+    <option name="totallyTimeSpent" value="52338000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1573,8 +1572,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leyou-registry/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="65" column="53" lean-forward="false" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
+        <state relative-caret-position="461">
+          <caret line="64" column="32" lean-forward="false" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
           <folding />
         </state>
       </provider>
