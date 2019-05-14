@@ -4,4 +4,4 @@ spring:
       name: comments
       profile: dev
       label: master
-      uri: http://127.0.0.1:10011
+      uri: http://129.204.127.41:10011
