@@ -11,7 +11,7 @@ spring:
           username: xiaoshuojun2019
           password: xsj@cheche365
   rabbitmq:
-    host: 127.0.0.1
+    host: 172.16.0.8
     username: admin
     password: admin
     virtual-host: leyou
