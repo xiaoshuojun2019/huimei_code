@@ -1,0 +1,15 @@
+com\leyou\service\GoodsService.class
+com\leyou\client\SpecClient.class
+com\leyou\utils\ThreadUtils.class
+com\leyou\client\BrandClient.class
+com\leyou\service\impl\GoodsServiceImpl.class
+com\leyou\service\impl\GoodsServiceImpl$2.class
+com\leyou\listener\GoodsListener.class
+com\leyou\client\GoodsClient.class
+com\leyou\service\GoodsHtmlService.class
+com\leyou\service\impl\GoodsServiceImpl$1.class
+com\leyou\client\SpuClient.class
+com\leyou\service\impl\GoodsHtmlServiceImpl.class
+com\leyou\client\CategoryClient.class
+com\leyou\controller\GoodsController.class
+com\leyou\LyGoodsWebApplication.class
