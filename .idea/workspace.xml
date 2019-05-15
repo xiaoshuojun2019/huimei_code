@@ -146,8 +146,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leyou-config/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+            <state relative-caret-position="604">
+              <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -2082,7 +2082,7 @@
       <option name="presentableId" value="Default" />
       <updated>1557024558809</updated>
       <workItem from="1557024560283" duration="50674000" />
-      <workItem from="1557710115695" duration="19039000" />
+      <workItem from="1557710115695" duration="19669000" />
     </task>
     <servers />
   </component>
@@ -2101,7 +2101,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69713000" />
+    <option name="totallyTimeSpent" value="70343000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2582,8 +2582,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leyou-config/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        <state relative-caret-position="604">
+          <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
           <folding />
         </state>
       </provider>
