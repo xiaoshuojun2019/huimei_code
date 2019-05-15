@@ -57,7 +57,7 @@
                         <arg>-Xlint:deprecation</arg>
                     </compilerArgs>
                     <compilerArguments>
-                        <bootclasspath>${JAVA_HOME}\jre\lib\rt.jar;${JAVA_HOME}\lib\jce.jar</bootclasspath>
+                        <bootclasspath>/java/jdk1.8.0_211/jre/lib/rt.jar;/java/jdk1.8.0_211/jre/lib/jce.jar</bootclasspath>
                     </compilerArguments>
                 </configuration>
             </plugin>
