@@ -267,7 +267,7 @@
                 <artifactId>docker-maven-plugin</artifactId>
                 <version>1.2.0</version>
                 <configuration>
-                    <imageName>129.204.127.41:5000/${project.artifactId}:${project.version}</imageName>
+                    <imageName>119.29.134.37:5000/${project.artifactId}:${project.version}</imageName>
                     <baseImage>jdk1.8</baseImage>
                     <entryPoint>["java", "‐jar", "/${project.build.finalName}.jar"]</entryPoint>
                     <resources>
@@ -277,7 +277,7 @@
                             <include>${project.build.finalName}.jar</include>
                         </resource>
                     </resources>
-                    <dockerHost>http://129.204.127.41:2375</dockerHost>
+                    <dockerHost>http://119.29.134.37:2375</dockerHost>
                 </configuration>
             </plugin>
         </plugins>
