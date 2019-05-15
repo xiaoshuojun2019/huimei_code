@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="853443e7-296d-4597-994f-8d041688ba42" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leyou-config/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/leyou-config/src/main/resources/application.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leyou-config/pom.xml" afterPath="$PROJECT_DIR$/leyou-config/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/leyou-authentication/target/" />
     <ignored path="$PROJECT_DIR$/leyou-item/target/" />
@@ -53,7 +53,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leyou-config/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
@@ -143,6 +143,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leyou-config/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="537">
+              <caret line="59" column="52" lean-forward="false" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -165,7 +175,6 @@
         <option value="$PROJECT_DIR$/leyou-authentication/leyou-authentication-common/src/test/java/com/leyou/auth/test/JwtTest.java" />
         <option value="$PROJECT_DIR$/leyou-upload/src/test/java/com/leyou/test/FdfsTest.java" />
         <option value="$PROJECT_DIR$/leyou-registry/pom.xml" />
-        <option value="$PROJECT_DIR$/leyou-config/pom.xml" />
         <option value="$PROJECT_DIR$/leyou-api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/leyou-registry/src/main/resources/bootstrap.yml" />
@@ -182,6 +191,7 @@
         <option value="$PROJECT_DIR$/leyou-upload/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/leyou-config/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/leyou-config/pom.xml" />
       </list>
     </option>
   </component>
@@ -2072,7 +2082,7 @@
       <option name="presentableId" value="Default" />
       <updated>1557024558809</updated>
       <workItem from="1557024560283" duration="50674000" />
-      <workItem from="1557710115695" duration="18165000" />
+      <workItem from="1557710115695" duration="18273000" />
     </task>
     <servers />
   </component>
@@ -2091,7 +2101,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68839000" />
+    <option name="totallyTimeSpent" value="68947000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2103,7 +2113,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="2" width="1932" height="1045" extended-state="1" />
+    <frame x="-7" y="2" width="1932" height="1045" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2426,14 +2436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leyou-config/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" column="24" lean-forward="false" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leyou-authentication/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -2574,6 +2576,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="59" column="52" lean-forward="false" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="52" />
           <folding />
         </state>
       </provider>
