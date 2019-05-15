@@ -15,7 +15,7 @@ import java.security.PublicKey;
 
 /**
  * @Author: 98050
- * @Time: 2018-10-24 16:12
+ * @Time: 2018-10-24 16:12x`
  * @Feature: jwt属性
  */
 //@ConfigurationProperties(prefix = "leyou.jwt")
