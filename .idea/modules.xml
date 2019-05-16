@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/leyou-authentication/leyou-authentication-common/leyou-authentication-common.iml" filepath="$PROJECT_DIR$/leyou-authentication/leyou-authentication-common/leyou-authentication-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/leyou-authentication/leyou-authentication-service/leyou-authentication-service.iml" filepath="$PROJECT_DIR$/leyou-authentication/leyou-authentication-service/leyou-authentication-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/leyou-cart/leyou-cart.iml" filepath="$PROJECT_DIR$/leyou-cart/leyou-cart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/leyou-comment/leyou-comment-service/leyou-comment-service.iml" filepath="$PROJECT_DIR$/leyou-comment/leyou-comment-service/leyou-comment-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/leyou-comments/leyou-comments.iml" filepath="$PROJECT_DIR$/leyou-comments/leyou-comments.iml" />
       <module fileurl="file://$PROJECT_DIR$/leyou-comments/leyou-comments-interface/leyou-comments-interface.iml" filepath="$PROJECT_DIR$/leyou-comments/leyou-comments-interface/leyou-comments-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/leyou-comments/leyou-comments-service/leyou-comments-service.iml" filepath="$PROJECT_DIR$/leyou-comments/leyou-comments-service/leyou-comments-service.iml" />
