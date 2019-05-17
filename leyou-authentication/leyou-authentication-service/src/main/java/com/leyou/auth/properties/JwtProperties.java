@@ -158,7 +158,7 @@ public class JwtProperties {
             if(pubKey.exists()){
                 System.out.println("pubKey.lentgh======111111======"+pubKey.length());
             }else{
-                System.out.println("pubKey.lentgh======222222======"+pubKey.length());
+                System.out.println("pubKey.lentgh======222222======"+pubKey);
             }
 
             if (!pubKey.exists() || !priKey.exists()) {
