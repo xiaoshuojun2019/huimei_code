@@ -143,6 +143,13 @@ public class JwtProperties {
         try {
             System.out.println("pubKeyPath============"+pubKeyPath);
             System.out.println("priKeyPath============"+priKeyPath);
+
+            String fileSeperator = File.separator;
+            String userHome = System.getProperties().getProperty("user.home");
+
+            System.out.println("fileSeperator============"+fileSeperator);
+            System.out.println("userHome============"+userHome);
+
             File pubKey = new File(pubKeyPath);
             File priKey = new File(priKeyPath);
             if (!pubKey.exists() || !priKey.exists()) {
