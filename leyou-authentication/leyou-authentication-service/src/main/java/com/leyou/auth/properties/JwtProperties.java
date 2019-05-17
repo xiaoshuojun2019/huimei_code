@@ -146,12 +146,21 @@ public class JwtProperties {
 
             String fileSeperator = File.separator;
             String userHome = System.getProperties().getProperty("user.home");
+            String userDir = System.getProperties().getProperty("user.dir");
+
 
             System.out.println("fileSeperator============"+fileSeperator);
             System.out.println("userHome============"+userHome);
+            System.out.println("userDir============"+userDir);
 
             File pubKey = new File(pubKeyPath);
             File priKey = new File(priKeyPath);
+            if(pubKey.exists()){
+                System.out.println("pubKey.lentgh======111111======"+pubKey.length());
+            }else{
+                System.out.println("pubKey.lentgh======222222======"+pubKey.length());
+            }
+
             if (!pubKey.exists() || !priKey.exists()) {
                 // 生成公钥和私钥
                 RsaUtils.generateKey(pubKeyPath, priKeyPath, secret);
