@@ -141,8 +141,8 @@ public class JwtProperties {
     @PostConstruct
     public void init(){
         try {
-            System.out.println("pubKeyPath============"+pubKeyPath);
-            System.out.println("priKeyPath============"+priKeyPath);
+            System.out.println("pubKeyPath============"+pubKeyPath+"@  "+pubKeyPath.length());
+            System.out.println("priKeyPath============"+priKeyPath+"@  "+priKeyPath.length());
 
             String fileSeperator = File.separator;
             String userHome = System.getProperties().getProperty("user.home");
