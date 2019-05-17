@@ -141,15 +141,22 @@ public class JwtProperties {
     @PostConstruct
     public void init(){
         try {
+            System.out.println("pubKeyPath============"+pubKeyPath);
+            System.out.println("priKeyPath============"+priKeyPath);
             File pubKey = new File(pubKeyPath);
             File priKey = new File(priKeyPath);
             if (!pubKey.exists() || !priKey.exists()) {
                 // 生成公钥和私钥
                 RsaUtils.generateKey(pubKeyPath, priKeyPath, secret);
             }
+            System.out.println("pubKeyPath=====end====1111===");
             // 获取公钥和私钥
             this.publicKey = RsaUtils.getPublicKey(pubKeyPath);
             this.privateKey = RsaUtils.getPrivateKey(priKeyPath);
+
+            System.out.println("pubKeyPath=====end====22222===");
+
+
         } catch (Exception e) {
             logger.error("初始化公钥和私钥失败！", e);
             throw new RuntimeException();
