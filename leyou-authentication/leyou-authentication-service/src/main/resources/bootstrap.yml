@@ -2,6 +2,6 @@ spring:
   cloud:
     config:
       name: auth
-      profile: dev
+      profile: local
       label: master
       uri: http://119.29.134.37:10011

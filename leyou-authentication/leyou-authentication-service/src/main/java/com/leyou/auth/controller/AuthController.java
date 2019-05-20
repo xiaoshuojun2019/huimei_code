@@ -50,6 +50,7 @@ public class AuthController {
             HttpServletResponse response
     ){
         //1.登录校验
+        System.out.println(".............accredit.................................");
         String token = this.authService.authentication(username,password);
         if (StringUtils.isBlank(token)){
             return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
